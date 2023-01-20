@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-703 • Fall 2021 • Carnegie Mellon University
+title: <b>T</b>opics for <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing
+description: 670 • Spring 2023 • Yale University
 logo: cmu-logo.png
 news: true
 ---
