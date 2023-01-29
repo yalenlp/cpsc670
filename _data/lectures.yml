@@ -27,6 +27,7 @@
 
 - date: Tue 01/24/23
   lecturer: Kejian; Huangrui
+  question-form: https://forms.gle/EBNHeejzviX5pKvz5
   title:
     - Transfer learning
     - Pre-training
@@ -42,6 +43,8 @@
 - date: Th 01/26/23
   lecturer: Zhangir
   title: Model Architecture and Training Objectives
+  question-form: https://forms.gle/wqjDZ8cj3Buuu6yt8
+  slides:
   readings:
     - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
     - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (2022) <a href="https://arxiv.org/pdf/2204.05832.pdf">[link]</a>
@@ -49,6 +52,7 @@
 
 - date: Tue 01/31/23
   lecturer: Ruixiao, Chenxi
+  question-form: https://forms.gle/xGXqs38oTsYjVkFu8
   title:
     - Scaling Laws for Langauge Models
     - Tips on choosing a project [Arman]
@@ -62,6 +66,7 @@
 
 - date: Th 02/02/23
   lecturer: Veer; Ziqing
+  question-form: https://forms.gle/XUmGv8DyzTcab7Fq5
   title:
     - LLMs
     - Power of scale

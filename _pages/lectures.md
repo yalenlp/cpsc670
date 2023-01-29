@@ -67,7 +67,7 @@ title: Schedule
             {% endif %}
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
-            {% endif %}
+            {% endif %}            
             {% if lecture.video %}
             | <a href="{{ lecture.video }}" target="_blank">video</a>
             {% else %}
@@ -80,6 +80,9 @@ title: Schedule
               | <a href="{{ lecture.notes2 }}" target="_blank">notes 2</a>
             {% endif %}
         ]
+        {% if lecture.question-form %}
+            <br/> [ <a href="{{ lecture.question-form }}" target="_blank">questions form</a> ] 
+        {% endif %}
     </td>
     <td>
         {% if lecture.readings %}
