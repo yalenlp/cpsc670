@@ -36,11 +36,15 @@ title: Schedule
     {% else %}
     <td>
         {% if lecture.title %}
-            Lecture #{{ forloop.index | minus: current_module | minus: skip_classes | minus: recitation_count}}
-            {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
+            Lecture #{{ forloop.index | minus: current_module | minus: skip_classes | minus: recitation_count}}:
         {% endif %}
         {% if lecture.title %}
-            <br />{{ lecture.title }}<br />
+            <!-- <br />{{ lecture.title }}<br /> -->
+            <ul>
+                {% for tit in lecture.title %}
+                <li>{{ tit }}</li>
+            {% endfor %}
+             </ul>
         {% endif %}
         {% if lecture.recitation %}
             Recitation #{{ recitation_count }}:
@@ -48,6 +52,10 @@ title: Schedule
         {% if lecture.recitation %}
             <br />{{ lecture.recitation }}<br />
         {% endif %}
+        {% if lecture.lecturer %}
+        Presenters:
+        {{ lecture.lecturer }}<br />
+        {% endif %}        
         [
             {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
@@ -75,12 +83,21 @@ title: Schedule
     </td>
     <td>
         {% if lecture.readings %}
-        <ul>
+        Main readings:         
+        <ul class="space_list">
         {% for reading in lecture.readings %}
-            <li>{{ reading }}</li>
+            <li>{{ reading }}</li> 
         {% endfor %}
         </ul>
         {% endif %}
+        {% if lecture.optional %} 
+        Optional readings:            
+        <ul class="space_list_no_indent">
+            {% for optional in lecture.optional %}
+                <li>{{ optional }}</li>            
+            {% endfor %}        
+        </ul>            
+        {% endif %}           
     </td>
     <td>
         <p>{{ lecture.logistics }}</p>

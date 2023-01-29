@@ -1,14 +1,16 @@
 .logo {
     float: left;
-    margin-right: 20px;
-    padding-bottom: 15px;
-    width: 120px;
+    margin-right: 40px;
+    padding-bottom: 1px;
+    padding-top: 20px;
+    width: 100px;
 }
 
 .about {
     .post-title {
         padding-top: 20px;
     }
+
     .post-description {
         font-size: 20px;
     }
@@ -48,6 +50,7 @@
 
         a {
             color: $theme-color;
+
             &:hover {
                 text-decoration: underline;
             }
@@ -58,10 +61,12 @@
         }
     }
 }
+
 .instructor-profile-two-col {
     @extend %instructor-profile;
     width: 50%;
 }
+
 .instructor-profile-three-col {
     @extend %instructor-profile;
     width: 33%;
@@ -77,14 +82,23 @@
         margin-top: 0;
         margin-bottom: 10px;
     }
+
     table {
         border-collapse: collapse;
         width: 100%;
 
-        .date { width: 19%; }
-        .announcement { width: 81%; }
+        .date {
+            width: 19%;
+        }
 
-        tr { text-align: left; }
+        .announcement {
+            width: 81%;
+        }
+
+        tr {
+            text-align: left;
+        }
+
         td {
             padding: 6px 0;
             vertical-align: top;

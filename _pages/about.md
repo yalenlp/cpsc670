@@ -2,47 +2,37 @@
 layout: about
 permalink: /
 title: <b>T</b>opics for <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing
-description: 670 • Spring 2023 • Yale University
-logo: cmu-logo.png
+description: CPSC 670 • Spring 2023 • Yale University
+logo: yale-logo.png
 news: true
 ---
 
-This course brings together many disciplines of Artificial Intelligence (including computer vision, robot control, reinforcement learning, language understanding) to show how to develop intelligent agents that can learn to sense the world and learn to act by imitating others, maximizing sparse rewards, and/or satisfying their curiosity.
-
-**Course Goals:**
-
-Upon completion of the course students should be able to:
-- Implement and experiment with existing state-of-the-art methods for learning behavioral policies supervised by reinforcement, demonstrations and/or intrinsic curiosity.
-- Evaluate the sample complexity, generalization and generality of these algorithms.
-- Understand research papers in the field of robotic learning.
-- Try out ideas/extensions on existing methods.
+In this course, we'll read and discuss the latest language modeling and representation learning methods in natural language processing. This includes prominent deep learning architectures including transformers, methods of self-supervised learning and transfer learning, contrastive learning, large language models and the power of scale, emergent properties of large language models, parameter efficient fine-tuning methods, learning from few training examples and task instructions, methods for making large language models more efficient, applications to other fields, and other recent topics in contemporary NLP.
 
 **Prerequisite Knowledge:**
 
-Students should have a solid understanding of the following areas
-- Algorithms: e.g., What problem does Dijkstra's algorithm solve?
-- Probability: e.g., What is Bayes rule? How do you normalize a distribution?
-- Computer vision: convolutional networks, object detection architectures, LSTMs, attention models
-- Deep Learning: familiarity  with TensorFlow and/or Pytorch.
-- Matrix Calculus: e.g., What are derivatives of matrix-matrix and matrix-vector products? What is the multivariate chain rule?
-- Programming: e.g., What are classes and inheritance? How do you structure read data from files? How do you plot figures to visualize results?
-- Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix?
+Students must have experience with machine learning and deep learning including necessary mathematical background. Experience with natural language processing is a plus. 
 
-**Prerequisites:**
-- Prerequisites: 10601 Introduction to Machine Learning
-- Minimum Grades: B in 10601
-- Corequisites: None
-- Anti-requisites: None
-- Anti-req Prohibits: None
+Students should also feel comfortable with implementing basic machine learning algorithms and understanding/running open source machine learning code. 
+
+Students should also have experience with reading machine learning papers and developing a decent understanding of the main concepts/ideas presented in the paper.
+
+At least one of the following courses is recommended as prerequisite:
+
+- CPSC 477/577 Natural Language Processing
+- CPSC 452 Deep Learning Theory and Applications
+- CPSC 552 Deep Learning Theory and Applications
+- CPSC 677 Advanced NLP
+
+Note: Students who haven't taken any of these courses but feel comfortable with deep learning and modern NLP, and students from other relevant departments such as statistics, linguistics, neuroscience and biomedical science are welcome to participate but please contact the instructor for approval. 
 
 ***
 
-- **Lectures:** Monday, Wednesday 11:50 AM - 1:10 PM
-- **Recitations:** Friday 11:50 AM - 1:10 PM
-- **Lecture/Recitation Location:** GHC 4401
+- **Lectures:** Tue, Thu 2:30 PM - 3:45 PM
+- **Lecture Location:** WHL 120
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
-- **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
+<!-- - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"} -->
+<!-- - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"} -->
 <!-- - **Contact:** For external enquiries, personal matters or in emergencies, you can email Brynn at
 bedmunds@andrew.cmu.edu. -->
 

@@ -1,6 +1,6 @@
+--- # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # Site settings
-# -----------------------------------------------------------------------------
 author: CPSC 670 Staff
 name: CPSC 670
 title: Topics in Natural Language Processing
@@ -8,10 +8,11 @@ email: arman.cohan@yale.edu
 description: >
   Topics in Natural Language Processing - Yale University - Spring 2023
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+  Theme based on <a href="https://github.com/cmudeeprl"> Deep RL</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -19,7 +20,8 @@ baseurl:  # the subpath of your site, e.g. /blog/
 github_username: armancohan
 google_analytics:
 youtube_channel:
-rss:  # notes rss
+rss: # notes rss
+twitter_username: armancohan
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -34,17 +36,17 @@ paginate_path: /notes/page:num/
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: "Newer"
+    older: "Older"
 
 # Comments
 disqus_shortname: # put your disqus shortname
 
 # Optional features
-show_social_icons:  true
-enable_anchorjs:    true
-enable_latexjs:     true
-enable_katex:       true
+show_social_icons: true
+enable_anchorjs: true
+enable_latexjs: true
+enable_katex: true
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -67,14 +69,14 @@ markdown: kramdown
 highlighter: rouge
 
 # Includes & excludes
-include: ['_pages']
+include: ["_pages"]
 exclude: [vendor]
 
 # Plug-ins
 plugins:
-    - jekyll-email-protect
-    - jekyll-paginate
-    - jemoji
+  - jekyll-email-protect
+  - jekyll-paginate
+  - jemoji
 
 # -----------------------------------------------------------------------------
 # Other settings
