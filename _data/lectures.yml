@@ -28,6 +28,8 @@
 - date: Tue 01/24/23
   lecturer: Kejian; Huangrui
   question-form: https://forms.gle/EBNHeejzviX5pKvz5
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_3_gpt2.pdf
+  slides2: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_3_t5.pdf
   title:
     - Transfer learning
     - Pre-training
@@ -43,6 +45,7 @@
 - date: Th 01/26/23
   lecturer: Zhangir
   title: Model Architecture and Training Objectives
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_4.pdf
   question-form: https://forms.gle/wqjDZ8cj3Buuu6yt8
   slides:
   readings:
