@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /lectures/
+permalink: /schedule/
 title: Schedule
 ---
 
