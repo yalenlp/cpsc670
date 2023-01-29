@@ -1,1 +1,1 @@
-# 703_website
+# CPSC 670 Website
