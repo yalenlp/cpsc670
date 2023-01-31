@@ -65,6 +65,9 @@ title: Schedule
             {% if lecture.slides2 %}
               | <a href="{{ lecture.slides2 }}" target="_blank">slides 2</a>
             {% endif %}
+            {% if lecture.slides3 %}
+              | <a href="{{ lecture.slides3 }}" target="_blank">slides on choosing projects</a>
+            {% endif %}            
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
             {% endif %}            
