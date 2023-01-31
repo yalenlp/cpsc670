@@ -60,7 +60,7 @@
     - Scaling Laws for Langauge Models
     - Tips on choosing a project [Arman]
   notes:
-  slides3: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_5_projects.pdf
+  slides3: /assets/lectures/s23/lecture_5_projects.pdf
   readings:
     - Scaling Laws for Neural Language Models (2020) <a href="https://arxiv.org/pdf/2001.08361.pdf " target="_blank">[link]</a>
     - Training Compute-Optimal Large Language Models (2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="blank">[link]</a>
