@@ -87,6 +87,7 @@
   readings:
     - It’s Not Just Size That Matters- Small Language Models Are Also Few-Shot Learners (2020) <a href="https://arxiv.org/pdf/2009.07118.pdf" traget="_blank">[link]</a>
     - Making Pre-trained Language Models Better Few-shot Learners (2021) <a href="https://arxiv.org/pdf/2012.15723.pdf" traget="_blank">[link]</a>
+  question-form: https://forms.gle/tPn1iGLN6Cp88TXo7
 
 - date: Thu 2/9/23
   lecturer: Yujie; David
@@ -98,6 +99,7 @@
     - Data Distributional Properties Drive Emergent In-Context Learning in Transformers (2022) <a href="https://arxiv.org/pdf/2205.05055.pdf" traget="_blank">[link]</a>
   logistics:
     - <span class="deadline">Finalize project teams</span>
+  question-form: https://forms.gle/R39R6FoKEK55NrQP9
 
 - date: Tue 2/14/23
   lecturer: Huangrui; Hyoungseob
