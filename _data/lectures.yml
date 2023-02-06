@@ -45,7 +45,7 @@
 - date: Th 01/26/23
   lecturer: Zhangir
   title: Model Architecture and Training Objectives
-  slides: /cpsc670/assets/lectures/s23/lecture_4.pdf
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_4_ul2.pdf
   question-form: https://forms.gle/wqjDZ8cj3Buuu6yt8
   readings:
     - UL2- Unifying Language Learning Paradigms (2022) <a href="https://arxiv.org/pdf/2205.05131.pdf">[link]</a>
@@ -59,10 +59,12 @@
     - Scaling Laws for Langauge Models
     - Tips on choosing a project [Arman]
   notes:
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_5_scaling_laws.pdf
+  slides2: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_5_chinchilla.pdf
   readings:
     - Scaling Laws for Neural Language Models (2020) <a href="https://arxiv.org/pdf/2001.08361.pdf " target="_blank">[link]</a>
     - Training Compute-Optimal Large Language Models (2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="blank">[link]</a>
-  logistics: <a href="/cpsc670/assets/lectures/s23/lecture_5_projects.pdf"> [Tips on choosing projects]</a> <br/><br/> <a href="https://docs.google.com/document/d/1JBCkDdlywQcQtxz6fHg1p2ev0GgLbmHbcAg4NRIu-Mc/edit">[Projects Doc]</a>
+  logistics: <a href="https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_5_projects.pdf"> [Tips on choosing projects]</a> <br/><br/> <a href="https://docs.google.com/document/d/1JBCkDdlywQcQtxz6fHg1p2ev0GgLbmHbcAg4NRIu-Mc/edit">[Projects Doc]</a>
   optional:
     - Scale Efficiently - Insights from Pre-training and Fine-tuning Transformers (2021) <a href="https://arxiv.org/pdf/2109.10686.pdf">[link]</a>
 
@@ -75,6 +77,8 @@
   readings:
     - Language Models are Few-Shot Learners (GPT3; 2020) <a href="https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf" target="_blank">[link]</a>
     - PaLM - Scaling Language Modeling with Pathways (2022) <a href="https://arxiv.org/pdf/2204.02311.pdf">[link]</a>
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_6_gpt3.pdf
+  slides2: https://yalenlp.github.io/cpsc670/cpsc670/assets/lectures/s23/lecture_6_palm.pdf
 
 - date: Tue 2/7/23
   lecturer: Ayla, Hailey
