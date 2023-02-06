@@ -98,11 +98,11 @@
 - date: Tue 2/14/23
   lecturer:
   title:
-    - Why ICL works
     - Instruction tuning
   readings:
-    - Impact of Pretraining Term Frequencies on Few-Shot Reasoning <a href="https://arxiv.org/pdf/2202.07206.pdf" traget="_blank">[link]</a>
+    # - Impact of Pretraining Term Frequencies on Few-Shot Reasoning <a href="https://arxiv.org/pdf/2202.07206.pdf" traget="_blank">[link]</a>
     - Training language models to follow instructions with human feedback <a href="https://arxiv.org/pdf/2203.02155.pdf" traget="_blank">[link]</a>
+    - Scaling Instruction-Finetuned Language Models <a href="https://arxiv.org/pdf/2210.11416.pdf" traget="_blank">[link]</a>
 
 - date: Thu 2/16/23
   lecturer:
