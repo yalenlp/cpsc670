@@ -54,13 +54,18 @@ title: Schedule
         {% endif %}
         {% if lecture.lecturer %}
         Presenters:
-        {{ lecture.lecturer }}<br />
-        {% endif %}        
+        <ul class="no-bullets">
+            {% for lecturer in lecture.lecturer %}
+                 <li style="color:#397DF6;font-weight:bold">{{ lecturer }}</li>
+            {% endfor %}                
+        </ul>            
+        <!-- <p style="color:green;">{{ lecture.lecturer }}</p><br /> -->
+        {% endif %}
+        {% if lecture.slides or lecture.slides2 %}        
         [
+        {% endif %}
             {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
-            {% else %}
-              slides
             {% endif %}
             {% if lecture.slides2 %}
               | <a href="{{ lecture.slides2 }}" target="_blank">slides 2</a>
@@ -82,7 +87,9 @@ title: Schedule
             {% if lecture.notes2 %}
               | <a href="{{ lecture.notes2 }}" target="_blank">notes 2</a>
             {% endif %}
+        {% if lecture.slides or lecture.slides2 %}        
         ]
+        {% endif %}
         {% if lecture.question-form %}
             <br/> [ <a href="{{ lecture.question-form }}" target="_blank">questions form</a> ] 
         {% endif %}

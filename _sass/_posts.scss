@@ -31,6 +31,17 @@ ul.space_list_no_indent li {
     margin-left: 0;
 }
 
+ul.no-bullets {
+    list-style-type: none;
+    /* Remove bullets */
+    padding: 0;
+    /* Remove padding */
+    margin: 0;
+    margin-left: 1em;
+    /* Remove margins */
+    margin-bottom: 1em;
+}
+
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
