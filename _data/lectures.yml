@@ -219,6 +219,8 @@
 
 - date: Tue 3/28/23
   lecturer:
+    - <b> Guest Lecture</b>
+    - <a href="https://wellecks.com/">Sean Welleck</a> - Decoding methods for natural language generation
   title:
     - Decoding approaches
   readings:
