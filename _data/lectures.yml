@@ -195,10 +195,13 @@
 - date: Tue 3/7/23
   lecturer:
   title:
-    - Retrieval and retrieval-augmented models
+    - <b> Guest Lecture</b>
+    - <a href="https://scottyih.org/">Scott Yih</a> - Efficient and Scalable NLP through Retrieval-Augmented Language Models
   readings:
     - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020) <a href="https://arxiv.org/pdf/2005.11401.pdf" traget="_blank">[link]</a>
     - Improving language models by retrieving from trillions of tokens (2021) <a href="https://arxiv.org/pdf/2112.04426.pdf" traget="_blank">[link]</a>
+    - REPLUG, Retrieval-Augmented Black-Box Language Models <a href="https://arxiv.org/pdf/2301.12652.pdf" target="_blank">[link]</a>
+    - Retrieval-Augmented Multimodal Language Modeling <a href="https://arxiv.org/pdf/2211.12561.pdf" target="_blank">[link]</a>
 
 - date: Thu 3/9/23
   lecturer:
