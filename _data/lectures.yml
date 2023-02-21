@@ -152,6 +152,7 @@
   title:
     - Chain of thought reasoning
     - Emergence
+  question-form: https://forms.gle/J2RECiWE7SBn4H6J8
   readings:
     - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022) <a href="https://arxiv.org/pdf/2201.11903.pdf" traget="_blank">[link]</a>
     - Emergent Abilities of Large Language Models (2022) <a href="https://openreview.net/pdf?id=yzkSU5zdwD" traget="_blank">[link]</a>
@@ -165,6 +166,7 @@
   readings:
     - Longformer- The Long-Document Transformer (2020) <a href="https://arxiv.org/pdf/2004.05150.pdf" traget="_blank">[link]</a>
     - Big Bird- Transformers for Longer Sequences (2020) <a href="https://arxiv.org/pdf/2007.14062.pdf" traget="_blank">[link]</a>
+  question-form: https://forms.gle/f3rMudVhJk6UQF3U9
   optional:
     - Efficient Transformers- A Survey <a href="https://arxiv.org/pdf/2009.06732.pdf" target="_blank">[link] </a>
 
