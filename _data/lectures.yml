@@ -187,11 +187,12 @@
     - <span class="deadline">Project proposals due</span>
 
 - date: Thu 3/2/23
-  lecturer:
+  lecturer: Hailey
   title:
     - Memory
   readings:
     - Memorizing Transformers (2022) <a href="https://arxiv.org/pdf/2203.08913.pdf" traget="_blank">[link]</a>
+  optional:
     - Training Language Models with Memory Augmentation (2022) <a href="https://arxiv.org/pdf/2205.12674.pdf" traget="_blank">[link]</a>
 
 - date: Tue 3/7/23
@@ -206,11 +207,12 @@
     - Retrieval-Augmented Multimodal Language Modeling <a href="https://arxiv.org/pdf/2211.12561.pdf" target="_blank">[link]</a>
 
 - date: Thu 3/9/23
-  lecturer:
+  lecturer: Ziqing
   title:
     - Iterative methods
   readings:
     - PEER- A Collaborative Language Model (2022) <a href="https://arxiv.org/pdf/2208.11663.pdf" traget="_blank">[link]</a>
+  optional:
     - Generating Sequences by Learning to Self-Correct (2022) <a href="https://arxiv.org/pdf/2211.00053.pdf" traget="_blank">[link]</a>
 
 - date: 3/14 - 3/26
@@ -229,60 +231,69 @@
     - NEUROLOGIC A*esque Decoding- Constrained Text Generation with Lookahead Heuristics (2022) <a href="https://arxiv.org/pdf/2112.08726.pdf" traget="_blank">[link]</a>
 
 - date: Thu 3/30/23
-  lecturer:
+  lecturer: Yujie
   title:
     - Societal and ethical considerations, bias, safety in AI/NLP
   readings:
     - On the Dangers of Stochastic Parrots- Can Language Models Be Too Big? (2020) <a href="https://dl.acm.org/doi/pdf/10.1145/3442188.3445922" traget="_blank">[link]</a>
+  optional:
     - Self-Diagnosis and Self-Debiasing- A Proposal for Reducing Corpus-Based Bias in NLP (2021) <a href="https://arxiv.org/pdf/2103.00453.pdf" traget="_blank">[link]</a>
   logistics:
     - <span class="deadline">4/1 Progress report due</span>
 
 - date: 4/4/23
-  lecturer:
+  lecturer: Huangrui
   title:
-    - Mixture of experts, Hypernetworks,
+    - Mixture of experts and sparse models
   readings:
     - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
-    - Hyperdecoders- Instance-specific decoders for multi-task NLP (2022) <a href="https://arxiv.org/pdf/2203.08304.pdf" traget="_blank">[link]</a>
+    # - Hyperdecoders- Instance-specific decoders for multi-task NLP (2022) <a href="https://arxiv.org/pdf/2203.08304.pdf" traget="_blank">[link]</a>
 
 - date: 4/6/23
-  lecturer:
+  lecturer: Ruixiao
   title:
     - Data
     - Spurious biases
     - Dataset difficulty
   readings:
     - Competency Problems- On Finding and Removing Artifacts in Language Data (2021) <a href="https://arxiv.org/pdf/2104.08646.pdf" traget="_blank">[link]</a>
+  optional:
     - Understanding Dataset Difficulty with V-Usable Information (2021) <a href="https://arxiv.org/pdf/2110.08420.pdf" traget="_blank">[link]</a>
 
 - date: 4/11/23
-  lecturer:
+  lecturer: Ayla
   title:
     - Multi-modal models
   readings:
-    - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
+    # - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
     - Flamingo- a Visual Language Model for Few-Shot Learning (2022) <a href="https://arxiv.org/pdf/2204.14198.pdf" traget="_blank">[link]</a>
+  optional:
+    - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
 
 - date: 4/13/23
-  lecturer:
+  lecturer: Zhangir
   title:
     - Training LLMs with human feedback
     - AI Alignment
   readings:
-    - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf">[link]</a>
+    # - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf">[link]</a>
     - A General Language Assistant as a Laboratory for Alignment (2021) <a href="https://arxiv.org/pdf/2112.00861.pdf" traget="_blank">[link]</a>
+  optional:
+    - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf">[link]</a>
+
 
 - date: 4/18/23
-  lecturer:
+  lecturer: David
   title:
     - AI Alignment
   readings:
-    - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
+    # - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
     - Fine-tuning language models to find agreement among humans with diverse preferences (2022) <a href="https://arxiv.org/pdf/2211.15006.pdf" traget="_blank">[link]</a>
+  optional: 
+    - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
 
 - date: 4/20/23
-  lecturer:
+  lecturer: Kejian
   title:
     - LLMs for Code
   readings:
