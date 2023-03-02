@@ -187,7 +187,7 @@
     - <span class="deadline">Project proposals due</span>
 
 - date: Thu 3/2/23
-  lecturer: Hailey
+  lecturer: Arman
   title:
     - Memory
   readings:
@@ -207,13 +207,13 @@
     - Retrieval-Augmented Multimodal Language Modeling <a href="https://arxiv.org/pdf/2211.12561.pdf" target="_blank">[link]</a>
 
 - date: Thu 3/9/23
-  lecturer: Ziqing
+  lecturer: Hailey
   title:
     - Iterative methods
   readings:
     - PEER- A Collaborative Language Model (2022) <a href="https://arxiv.org/pdf/2208.11663.pdf" traget="_blank">[link]</a>
   optional:
-    - Generating Sequences by Learning to Self-Correct (2022) <a href="https://arxiv.org/pdf/2211.00053.pdf" traget="_blank">[link]</a>
+    - Generating Sequences by Learning to Self-Correct (2022) <a href="https://arxiv.org/pdf/2211.00053.pdf" traget="_blank">[link]</a> 
 
 - date: 3/14 - 3/26
   lecturer:
@@ -222,16 +222,7 @@
   recitation:
 
 - date: Tue 3/28/23
-  lecturer:
-  title:
-    - <b> Guest Lecture</b>
-    - <a href="https://wellecks.com/">Sean Welleck</a> - Decoding methods for natural language generation
-  readings:
-    - NEUROLOGIC DECODING- (Un)supervised Neural Text Generation with Predicate Logic Constraints (2021) <a href="https://aclanthology.org/2021.naacl-main.339.pdf" target="_blank">[link]</a>
-    - NEUROLOGIC A*esque Decoding- Constrained Text Generation with Lookahead Heuristics (2022) <a href="https://arxiv.org/pdf/2112.08726.pdf" traget="_blank">[link]</a>
-
-- date: Thu 3/30/23
-  lecturer: Yujie
+  lecturer: Kejian
   title:
     - Societal and ethical considerations, bias, safety in AI/NLP
   readings:
@@ -241,16 +232,19 @@
   logistics:
     - <span class="deadline">4/1 Progress report due</span>
 
-- date: 4/4/23
-  lecturer: Huangrui
+
+- date: Thu 3/30/23
+  lecturer: Ayla
   title:
     - Mixture of experts and sparse models
   readings:
     - Switch Transformers- Scaling to Trillion Parameter Models (2021) <a href="https://arxiv.org/pdf/2101.03961.pdf" traget="_blank">[link]</a>
+  optional:
+    - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
     # - Hyperdecoders- Instance-specific decoders for multi-task NLP (2022) <a href="https://arxiv.org/pdf/2203.08304.pdf" traget="_blank">[link]</a>
 
-- date: 4/6/23
-  lecturer: Ruixiao
+- date: 4/4/23
+  lecturer: Yujie
   title:
     - Data
     - Spurious biases
@@ -260,8 +254,17 @@
   optional:
     - Understanding Dataset Difficulty with V-Usable Information (2021) <a href="https://arxiv.org/pdf/2110.08420.pdf" traget="_blank">[link]</a>
 
+- date: 4/6/23
+  lecturer: 
+  title:
+    - <b> Guest Lecture</b>
+    - <a href="https://wellecks.com/">Sean Welleck</a> - Decoding methods for natural language generation
+  readings:
+    - NEUROLOGIC DECODING- (Un)supervised Neural Text Generation with Predicate Logic Constraints (2021) <a href="https://aclanthology.org/2021.naacl-main.339.pdf" target="_blank">[link]</a>
+    - NEUROLOGIC A*esque Decoding- Constrained Text Generation with Lookahead Heuristics (2022) <a href="https://arxiv.org/pdf/2112.08726.pdf" traget="_blank">[link]</a>    
+
 - date: 4/11/23
-  lecturer: Ayla
+  lecturer: Zhangir
   title:
     - Multi-modal models
   readings:
@@ -271,7 +274,7 @@
     - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
 
 - date: 4/13/23
-  lecturer: Zhangir
+  lecturer: David
   title:
     - Training LLMs with human feedback
     - AI Alignment
@@ -283,7 +286,7 @@
 
 
 - date: 4/18/23
-  lecturer: David
+  lecturer: Ziqing, Ruixiao
   title:
     - AI Alignment
   readings:
@@ -293,7 +296,7 @@
     - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
 
 - date: 4/20/23
-  lecturer: Kejian
+  lecturer: Huangrui
   title:
     - LLMs for Code
   readings:

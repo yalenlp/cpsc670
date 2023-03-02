@@ -53,7 +53,7 @@ title: Schedule
             <br />{{ lecture.recitation }}<br />
         {% endif %}
         {% if lecture.lecturer %}
-        Presenters:
+        Presenter(s):
         <ul class="no-bullets">
             {% for lecturer in lecture.lecturer %}
                  <li style="color:#397DF6;font-weight:bold">{{ lecturer }}</li>
@@ -61,6 +61,22 @@ title: Schedule
         </ul>            
         <!-- <p style="color:green;">{{ lecture.lecturer }}</p><br /> -->
         {% endif %}
+        {% if lecture.panelists %}
+        Panel:
+        {% for lecturer in lecture.lecturer %}
+            <span style="color:#397DF6">{{ lecturer }},</span>            
+        {% endfor %}            
+        <span style="color:#397DF6">{{ panelist }}</span>
+        {% for panelist in lecture.panelists %}
+                {% if forloop.last == false %}
+                    <span style="color:#397DF6">{{ panelist }},</span>
+                {% else %}    
+                    <span style="color:#397DF6">{{ panelist }}</span>
+                {% endif %}
+
+        {% endfor %}                
+        <!-- <p style="color:green;">{{ lecture.lecturer }}</p><br /> -->
+        {% endif %}        
         {% if lecture.slides or lecture.slides2 %}        
         [
         {% endif %}
