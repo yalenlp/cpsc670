@@ -144,6 +144,7 @@
   optional:
     - Parameter-Efficient Transfer Learning for NLP (2019) <a href="https://arxiv.org/pdf/1902.00751.pdf" traget="_blank">[link]</a>
     - Prefix-Tuning- Optimizing Continuous Prompts for Generation (2021) <a href="https://arxiv.org/pdf/2101.00190.pdf" traget="_blank">[link]</a>
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_10_fewshot-param-efficient.pdf
 
 - date: Tues 2/21/23
   lecturer:
@@ -183,6 +184,7 @@
     - On the Parameterization and Initialization of Diagonal State Space Models (2022) <a href="https://arxiv.org/pdf/2206.11893.pdf" traget="_blank">[link]</a>
     - Hungry Hungry Hippos- Towards Language Modeling with State Space Models (2022) <a href="https://arxiv.org/pdf/2212.14052.pdf" traget="_blank">[link]</a>
     - FlashAttention- Fast and Memory-Efficient Exact Attention with IO-Awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf" traget="_blank">[link]</a>
+  
 
 - date: Thu 3/2/23
   lecturer: Arman
@@ -195,6 +197,7 @@
   logistics:
     - <span class="deadline">Project proposals due on 3/4</span>    
   question-form: https://forms.gle/6GUGN4ABLqAMQoWh9
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_14_memorizing-transformers.pdf
 
 - date: Tue 3/7/23
   lecturer:
@@ -206,6 +209,7 @@
     - Improving language models by retrieving from trillions of tokens (2021) <a href="https://arxiv.org/pdf/2112.04426.pdf" traget="_blank">[link]</a>
     - REPLUG, Retrieval-Augmented Black-Box Language Models <a href="https://arxiv.org/pdf/2301.12652.pdf" target="_blank">[link]</a>
     - Retrieval-Augmented Multimodal Language Modeling <a href="https://arxiv.org/pdf/2211.12561.pdf" target="_blank">[link]</a>
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_15_guest-lecture-scott-yih.pdf
 
 - date: Thu 3/9/23
   lecturer: Hailey
@@ -215,6 +219,7 @@
     - PEER- A Collaborative Language Model (2022) <a href="https://arxiv.org/pdf/2208.11663.pdf" traget="_blank">[link]</a>
   optional:
     - Generating Sequences by Learning to Self-Correct (2022) <a href="https://arxiv.org/pdf/2211.00053.pdf" traget="_blank">[link]</a> 
+  question-form: https://forms.gle/wfCEhLixBU6cXpE18
 
 - date: 3/14 - 3/26
   lecturer:
