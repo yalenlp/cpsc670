@@ -237,6 +237,7 @@
     - Self-Diagnosis and Self-Debiasing- A Proposal for Reducing Corpus-Based Bias in NLP (2021) <a href="https://arxiv.org/pdf/2103.00453.pdf" traget="_blank">[link]</a>
   logistics:
     - <span class="deadline">4/1 Progress report due</span>
+  question-form: https://forms.gle/BpmyiJKmwohSzZt3A
 
 
 - date: Thu 3/30/23
@@ -248,6 +249,7 @@
   optional:
     - Sparse Upcycling- Training Mixture-of-Experts from Dense Checkpoints (2022) <a href="https://arxiv.org/pdf/2212.05055.pdf" traget="_blank">[link]</a>
     # - Hyperdecoders- Instance-specific decoders for multi-task NLP (2022) <a href="https://arxiv.org/pdf/2203.08304.pdf" traget="_blank">[link]</a>
+  question-form: https://forms.gle/V37Z4vjM6mA6ad397
 
 - date: 4/4/23
   lecturer: Yujie
