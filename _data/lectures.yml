@@ -184,7 +184,6 @@
     - On the Parameterization and Initialization of Diagonal State Space Models (2022) <a href="https://arxiv.org/pdf/2206.11893.pdf" traget="_blank">[link]</a>
     - Hungry Hungry Hippos- Towards Language Modeling with State Space Models (2022) <a href="https://arxiv.org/pdf/2212.14052.pdf" traget="_blank">[link]</a>
     - FlashAttention- Fast and Memory-Efficient Exact Attention with IO-Awareness (2022) <a href="https://arxiv.org/pdf/2205.14135.pdf" traget="_blank">[link]</a>
-  
 
 - date: Thu 3/2/23
   lecturer: Arman
@@ -195,7 +194,7 @@
   optional:
     - Training Language Models with Memory Augmentation (2022) <a href="https://arxiv.org/pdf/2205.12674.pdf" traget="_blank">[link]</a>
   logistics:
-    - <span class="deadline">Project proposals due on 3/4</span>    
+    - <span class="deadline">Project proposals due on 3/4</span>
   question-form: https://forms.gle/6GUGN4ABLqAMQoWh9
   slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_14_memorizing-transformers.pdf
 
@@ -218,7 +217,7 @@
   readings:
     - PEER- A Collaborative Language Model (2022) <a href="https://arxiv.org/pdf/2208.11663.pdf" traget="_blank">[link]</a>
   optional:
-    - Generating Sequences by Learning to Self-Correct (2022) <a href="https://arxiv.org/pdf/2211.00053.pdf" traget="_blank">[link]</a> 
+    - Generating Sequences by Learning to Self-Correct (2022) <a href="https://arxiv.org/pdf/2211.00053.pdf" traget="_blank">[link]</a>
   question-form: https://forms.gle/wfCEhLixBU6cXpE18
 
 - date: 3/14 - 3/26
@@ -238,7 +237,6 @@
   logistics:
     - <span class="deadline">4/1 Progress report due</span>
   question-form: https://forms.gle/BpmyiJKmwohSzZt3A
-
 
 - date: Thu 3/30/23
   lecturer: Ayla
@@ -274,13 +272,12 @@
     - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
 
 - date: 4/11/23
-  lecturer: TBD
+  lecturer: Ruixiao
   title:
     - Decoding methods for natural language generation
   readings:
     - NEUROLOGIC DECODING- (Un)supervised Neural Text Generation with Predicate Logic Constraints (2021) <a href="https://aclanthology.org/2021.naacl-main.339.pdf" target="_blank">[link]</a>
-    - NEUROLOGIC A*esque Decoding- Constrained Text Generation with Lookahead Heuristics (2022) <a href="https://arxiv.org/pdf/2112.08726.pdf" traget="_blank">[link]</a>    
-
+    - NEUROLOGIC A*esque Decoding- Constrained Text Generation with Lookahead Heuristics (2022) <a href="https://arxiv.org/pdf/2112.08726.pdf" traget="_blank">[link]</a>
 
 - date: 4/13/23
   lecturer: David
@@ -293,7 +290,6 @@
   optional:
     - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf">[link]</a>
 
-
 - date: 4/18/23
   lecturer: Ziqing, Ruixiao
   title:
@@ -301,7 +297,7 @@
   readings:
     # - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
     - Fine-tuning language models to find agreement among humans with diverse preferences (2022) <a href="https://arxiv.org/pdf/2211.15006.pdf" traget="_blank">[link]</a>
-  optional: 
+  optional:
     - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
 
 - date: 4/20/23
