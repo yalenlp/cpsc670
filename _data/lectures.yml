@@ -260,6 +260,7 @@
   optional:
     - Understanding Dataset Difficulty with V-Usable Information (2021) <a href="https://arxiv.org/pdf/2110.08420.pdf" traget="_blank">[link]</a>
   question-form: https://forms.gle/A2fM1arD7M27vYDf6
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_19_competency.pdf
 
 - date: 4/6/23
   lecturer: Zhangir
@@ -270,6 +271,7 @@
     - Flamingo- a Visual Language Model for Few-Shot Learning (2022) <a href="https://arxiv.org/pdf/2204.14198.pdf" traget="_blank">[link]</a>
   optional:
     - CM3- A Causal Masked Multimodal Model of the Internet (2022) <a href="https://arxiv.org/pdf/2201.07520.pdf" traget="_blank">[link]</a>
+  slides: https://yalenlp.github.io/cpsc670/assets/lectures/s23/lecture_20_flamingo.pdf
 
 - date: 4/11/23
   lecturer: Ruixiao
@@ -277,7 +279,9 @@
     - Decoding methods for natural language generation
   readings:
     - NEUROLOGIC DECODING- (Un)supervised Neural Text Generation with Predicate Logic Constraints (2021) <a href="https://aclanthology.org/2021.naacl-main.339.pdf" target="_blank">[link]</a>
+  optional:
     - NEUROLOGIC A*esque Decoding- Constrained Text Generation with Lookahead Heuristics (2022) <a href="https://arxiv.org/pdf/2112.08726.pdf" traget="_blank">[link]</a>
+  question-form: https://forms.gle/orLRhWTfvmHwB4iB9
 
 - date: 4/13/23
   lecturer: David
@@ -289,6 +293,7 @@
     - A General Language Assistant as a Laboratory for Alignment (2021) <a href="https://arxiv.org/pdf/2112.00861.pdf" traget="_blank">[link]</a>
   optional:
     - Learning to Summarize with Human Feedback (2020) <a href="https://arxiv.org/pdf/2009.01325.pdf">[link]</a>
+  question-form: https://forms.gle/5C3n8ozPZKrsUKRw5
 
 - date: 4/18/23
   lecturer: Ziqing, Ruixiao
