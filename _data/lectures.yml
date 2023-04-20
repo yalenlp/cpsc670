@@ -304,6 +304,7 @@
     - Fine-tuning language models to find agreement among humans with diverse preferences (2022) <a href="https://arxiv.org/pdf/2211.15006.pdf" traget="_blank">[link]</a>
   optional:
     - Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (2022) <a href="https://arxiv.org/pdf/2204.05862.pdf" traget="_blank">[link]</a>
+  question-form: https://forms.gle/hriZijXM6meicBZ48
 
 - date: 4/20/23
   lecturer: Huangrui
@@ -311,7 +312,9 @@
     - LLMs for Code
   readings:
     - CodeGen- An Open Large Language Model for Code with Multi-Turn Program Synthesis (2022) <a href="https://arxiv.org/pdf/2203.13474.pdf" traget="_blank">[link]</a>
+  optional:
     - InCoder- A Generative Model for Code Infilling and Synthesis (2022) <a href="https://arxiv.org/pdf/2204.05999.pdf" traget="_blank">[link]</a>
+  question-form: https://forms.gle/U59pWv8J8J5LvTz28
 
 - date: 4/25/23
   lecturer:
